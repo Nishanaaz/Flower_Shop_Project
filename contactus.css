@@ -1,0 +1,22 @@
+body{
+    background-image: url(R.jpg);
+    background-repeat: no-repeat;
+    /* border-image-outset: 0ch; */
+    background-size: cover;
+}
+.container{
+    padding: 16px; 
+    text-align: center;
+    /* padding from the top */
+
+}
+input
+{
+    width: 10%;
+    padding: 10px;
+    border: none;
+    background: #f1f1f1;
+}
+registerbtn:hover{
+    opacity: 1;
+}

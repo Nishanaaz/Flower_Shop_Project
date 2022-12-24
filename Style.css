@@ -1,0 +1,52 @@
+body{
+    background-image: url("j.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topnav{
+    background-color: #333;
+    overflow: hidden;
+}
+.topnav button{
+    border-radius: 10px;
+    /* color: black; */
+    background-color: aquamarine;
+    padding-right: 20px;
+
+}
+.topnav button:hover{
+background-color: rgb(199, 199, 25);
+cursor: pointer;
+border-radius: 20px;
+border-color: aliceblue;
+/* color: rgb(1, 36, 24); */
+
+
+}
+.topnav a {
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 19px;
+    text-decoration: none;
+    
+}
+/* .topnav a:hover{
+    background-color:aqua; */
+
+
+.main{
+    padding-top: 5%;
+    color: blueviolet;
+
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Arima', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+}
+
+
+
+

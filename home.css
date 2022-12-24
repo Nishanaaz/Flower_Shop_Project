@@ -1,0 +1,31 @@
+body{
+    background-image: url(R.jpg);
+    background-repeat: no-repeat;
+    /* border-image-outset: 0ch; */
+    background-size: cover;
+}
+.topnav{
+    background-color: rgb(194, 209, 218);
+
+}
+.topnav a{
+    font-size: x-large;
+    text-decoration: none;
+    padding: 20px;
+    
+    
+}
+.image img 
+{
+    float: left;
+   width: 33.33%;   /* Specifies 3 columns in each row */
+   padding: 5px;
+   box-sizing: border-box;
+}
+.i img{
+    float: left;
+   width: 33.33%;   /* Specifies 3 columns in each row */
+   padding: 5px;
+   box-sizing: border-box;
+}
+
